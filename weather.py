@@ -17,6 +17,10 @@ if __name__ == '__main__':
     print("\n*** Get Current Weather Conditions ***\n")
 
     city = input("\nPlease enter a city name: ")
+
+    if not bool(city.strip()):
+        city = "Atlanta"
+
     weather_data = get_current_weather(city)
 
     print("\n")

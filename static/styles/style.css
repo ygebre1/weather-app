@@ -6,7 +6,7 @@
 
 body {
     padding: 2rem;
-    background-color: gray;
+    background-color: rgb(68, 68, 68);
     color: whitesmoke;
     min-height: 100vh;
     display: flex;
