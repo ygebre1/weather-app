@@ -1,4 +1,4 @@
-# Weather App
+# Weather App☀️
 
 This project is a simple Flask-based weather application that allows users to check the current weather conditions, temperature, and "feels like" temperature for a city of their choice. The app uses HTML, CSS, Python, and Flask for a responsive and user-friendly interface.
 
